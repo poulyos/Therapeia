@@ -220,7 +220,7 @@
 .char-counter {
   align-self: flex-end;
   font-size: 0.72rem;
-  color: #999;
+  color: #6f6f6f;
   letter-spacing: 0.04em;
 }
 
@@ -248,7 +248,7 @@
 
 .reserver-form__note {
   font-size: 0.8rem;
-  color: #888;
+  color: #6f6f6f;
   font-weight: 300;
 }
 
@@ -277,7 +277,7 @@
 /* ── INPUT READONLY ── */
 .input-readonly {
   background: var(--cream-dark) !important;
-  color: #888 !important;
+  color: #6f6f6f !important;
   cursor: default;
 }
 
@@ -330,7 +330,7 @@
 
 .radio-sub {
   font-size: 0.75rem;
-  color: #888;
+  color: #6f6f6f;
   font-weight: 300;
 }
 
