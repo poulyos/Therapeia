@@ -3,7 +3,7 @@
   position: relative;
   min-height: 32vh;
   text-align: center;
-  background: url('images/fond.jpg') center 30% / cover no-repeat;
+  background: url('images/fond.webp') center 30% / cover no-repeat;
   background-color: var(--green-dark);
   margin-top: 92px;
   padding: 3rem 6%;
