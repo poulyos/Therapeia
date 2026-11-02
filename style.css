@@ -100,11 +100,15 @@ img { display: block; max-width: 100%; height: auto; }
 .navbar__logo .navbar__logo-img {
   height: 110px;
   width: auto;
-  transition: height 0.3s;
+  margin-top: 0;
+  margin-bottom: 0;
+  transition: height 0.3s, margin 0.3s;
 }
 
 .navbar.scrolled .navbar__logo-img {
-  height: 50px;
+  height: 84px;
+  margin-top: -28px;
+  margin-bottom: -23px;
 }
 
 .navbar__logo-img--scrolled { display: none; }
