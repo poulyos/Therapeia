@@ -1020,6 +1020,13 @@ img { display: block; max-width: 100%; height: auto; }
   margin-top: 3rem;
 }
 
+.footer__area {
+  font-size: 0.72rem;
+  opacity: 0.6;
+  letter-spacing: 0.08em;
+  margin-top: 0.9rem;
+}
+
 .footer__contact {
   font-size: 0.8rem;
   letter-spacing: 0.06em;
