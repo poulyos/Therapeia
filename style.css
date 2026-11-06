@@ -1125,3 +1125,16 @@ img { display: block; max-width: 100%; height: auto; }
   .zone { padding: 3.5rem 6%; }
   .zone__list li { font-size: 0.7rem; padding: 0.45rem 0.9rem; }
 }
+
+/* ─────────────────────────────────────────
+   TRANSITIONS DROITES
+   transitions courbes retirées entre les sections
+───────────────────────────────────────── */
+.hero__wave,
+.wave-sep,
+.cta-section__dip,
+.footer__wave,
+.footer__dip,
+.atelier-hero__wave { display: none; }
+
+.hero--home { border-radius: 0; }
